@@ -1,0 +1,1 @@
+{"tabela":"OZ3","nome":"Arquivos Textos Importados","nome_eng":"Imported Text Files","modo":"C","arquivo":"OZ3200","campos":[{"campo":"OZ3_FILIAL","titulo":"Filial","tipo":"C","tam":4,"dec":0,"obrig":true},{"campo":"OZ3_ARQUIV","titulo":"Arq.Import.","tipo":"C","tam":15,"dec":0,"obrig":true}],"indices":[{"ordem":"1","chave":"OZ3_FILIAL+OZ3_ARQUIV","descricao":"Arq.Import."}]}

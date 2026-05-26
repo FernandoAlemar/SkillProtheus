@@ -1,0 +1,1 @@
+{"tabela":"DCE","nome":"Operação x Cliente","nome_eng":"Operation vs. Customer","modo":"C","arquivo":"DCE200","campos":[{"campo":"DCE_FILIAL","titulo":"Filial","tipo":"C","tam":4,"dec":0,"obrig":true},{"campo":"DCE_CODFUN","titulo":"Funcionario","tipo":"C","tam":3,"dec":0,"obrig":true}],"indices":[{"ordem":"1","chave":"DCE_FILIAL+DCE_CODFUN","descricao":"Funcionario"}]}

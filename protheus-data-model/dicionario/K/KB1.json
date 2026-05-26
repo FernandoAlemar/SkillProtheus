@@ -1,0 +1,1 @@
+{"tabela":"KB1","nome":"Reserva","nome_eng":"Reserve","modo":"E","arquivo":"KB1200","campos":[{"campo":"KB1_FILIAL","titulo":"Filial","tipo":"C","tam":4,"dec":0,"obrig":true}],"indices":[{"ordem":"1","chave":"KB1_FILIAL","descricao":"Filial"}]}

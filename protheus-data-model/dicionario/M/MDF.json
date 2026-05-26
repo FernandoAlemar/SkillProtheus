@@ -1,0 +1,1 @@
+{"tabela":"MDF","nome":"Controle Ordem Carga","nome_eng":"Cargo Order Control","modo":"C","arquivo":"MDF200","campos":[{"campo":"MDF_FILIAL","titulo":"Filial","tipo":"C","tam":4,"dec":0,"obrig":true},{"campo":"MDF_ORDEM","titulo":"Ordem da Car","tipo":"C","tam":10,"dec":0,"obrig":true}],"indices":[{"ordem":"1","chave":"MDF_FILIAL+MDF_ORDEM","descricao":"Ordem da Car"}]}

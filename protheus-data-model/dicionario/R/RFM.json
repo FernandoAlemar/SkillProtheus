@@ -1,0 +1,1 @@
+{"tabela":"RFM","nome":"Itens da Exceção","nome_eng":"Exception Items","modo":"C","arquivo":"RFM200","campos":[{"campo":"RFM_FILIAL","titulo":"Filial","tipo":"C","tam":4,"dec":0,"obrig":true},{"campo":"RFM_CODEXC","titulo":"Cód. Exceção","tipo":"C","tam":9,"dec":0,"obrig":true}],"indices":[{"ordem":"1","chave":"RFM_FILIAL+RFM_CODEXC","descricao":"Cód. Exceção"}]}

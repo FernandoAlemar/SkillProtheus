@@ -1,0 +1,1 @@
+{"tabela":"HN0","nome":"Filial","nome_eng":"Branch","modo":"C","arquivo":"HN0200","campos":[{"campo":"HN0_FILIAL","titulo":"Filial","tipo":"C","tam":4,"dec":0,"obrig":true}],"indices":[{"ordem":"1","chave":"HN0_FILIAL","descricao":"Filial"}]}

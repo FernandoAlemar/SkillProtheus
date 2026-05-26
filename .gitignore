@@ -1,0 +1,6 @@
+# Nomes reservados do Windows — Git for Windows não indexa estes paths
+/protheus-data-model/dicionario/C/CON.json
+/protheus-data-model/dicionario/N/NUL.json
+
+# Relatório gerado pelo sync (regenerável)
+/protheus-data-model/scripts/sync_report.json
